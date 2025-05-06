@@ -12,6 +12,8 @@ import { Provider } from "react-redux";
 import appStore from "./utils/appStore";
 import Cart from "./components/Cart";
 
+//COMMENT BY DANISH
+
 //import Grocery from "./components/Grocery";
 
 // Chunking
